@@ -18,3 +18,5 @@
 127.0.0.1 st.truyenchon.com
 127.0.0.1 truyenchon.com
 127.0.0.1 bong90.club
+127.0.0.1 hiemmuon.website
+127.0.0.1 ngungtaonghiep.com
