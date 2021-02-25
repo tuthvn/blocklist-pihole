@@ -22,3 +22,4 @@
 0.0.0.0 ngungtaonghiep.com
 0.0.0.0 bit.ly/2N0ppff
 0.0.0.0 phim.rik.vip
+0.0.0.0 one88.me
